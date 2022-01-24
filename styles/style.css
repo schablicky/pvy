@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 95%;
+    margin-left: 2.5%;
+    border: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(53, 53, 53);
+}
+
+header {
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 7px;
+}
+
+footer {
+    text-align: left;
+    font-weight: bolder;
+    background-color: rgb(25, 25, 25);
+    color: whitesmoke;
+    padding: 5px;
+}
+
+a {
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(65, 65, 65);
+    justify-content: center;
+}
+
+.img1 {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+}
+
+.flex-container > div {
+    background-color: #000000;
+    width: 240px;
+    height: 65px;
+    margin: 10px;
+    text-align: center
+}
+
+.img6 {
+    display: block;
+    width: 500px;
+    height: 380px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img7 {
+    display: block;
+    width: 1000px;
+    height: 380px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img8 {
+    display: block;
+    width: 850px;
+    height: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img9 {
+    display: block;
+    width: 450px;
+    height: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img10 {
+    display: block;
+    width: 500px;
+    height: 370px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.nadpis {
+    color: yellow;
+}
+
+.nadpis2 {
+    color: red;
+}
+
+h5 {
+    margin-left: 5%;
+    margin-right: 5%;
+}
