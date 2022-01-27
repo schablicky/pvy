@@ -1,4 +1,4 @@
-# pvy
+# PVY
 Programové vybavení
 
 Program equipment
